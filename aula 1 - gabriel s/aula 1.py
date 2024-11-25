@@ -1,0 +1,7 @@
+print('olá mundo')
+print ('gabriel')
+print ('wiska')
+print ('isabela')
+print ('volei')
+print ('corinthans')
+print (eliana- mamãe)
